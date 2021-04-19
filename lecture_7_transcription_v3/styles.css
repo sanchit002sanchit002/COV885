@@ -1,0 +1,13 @@
+body {
+	font-family: Arial, sans-serif;
+	font-size: 10pt;
+}
+.center {
+	max-width: 600px;
+	margin: 0 auto;
+	line-height: 26px;
+}
+.customFont {
+	font-family: 'Alegreya Sans SC', sans-serif;
+	font-size: 16pt;
+}
